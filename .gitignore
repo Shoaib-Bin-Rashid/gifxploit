@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.out_gifxploit/
+out_gifxploit/
+*.egg-info/
+*.egg
+env/
+venv/
+.env
+.idea/
+.vscode/
+.DS_Store
