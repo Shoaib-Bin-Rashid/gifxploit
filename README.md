@@ -146,13 +146,6 @@ See `CONTRIBUTING.md` for more.
 
 ---
 
-## License
-
-MIT License — see `LICENSE`.
-**Developed by Shoaib Bin Rashid (R3D\_XplOiT)**
-
----
-
 ## Example quick workflow for a suspicious GIF
 
 1. Run: `python3 gifxploit.py suspicious.gif`
