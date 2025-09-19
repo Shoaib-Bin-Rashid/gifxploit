@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gifxploit"
+version = "0.1.0"
+authors = [{ name="Shoaib Bin Rashid (R3D_XplOiT)" }]
+description = "Ultimate GIF forensic & CTF tool"
+requires-python = ">=3.8"
